@@ -1,6 +1,7 @@
 # Mitron-Bank-Insights
 
 Problem Scenario
+
 Mitron Bank, a well-established financial institution based in Hyderabad, is set to expand its product portfolio with the launch of a new line of credit cards. This strategic move aims to strengthen its market presence and provide customers with enhanced financial solutions.
 
 Job
